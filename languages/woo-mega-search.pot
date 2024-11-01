@@ -1,0 +1,157 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Mega Search\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-12-04 06:48+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: PluginRox <admin@pluginrox.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.0; wp-4.9.8"
+
+#: includes/class.RoxWCMSSettings.php:103
+msgid "Customization"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:163
+msgid "General Settings"
+msgstr ""
+
+#: templates/loading.php:15
+msgid "Give us a minute, we are searching the database..."
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://pluginrox.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://pluginrox.com/plugin/woocommerce-mega-search/"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:191
+msgid ""
+"If current theme doesnot utilize <code>get_search_form()</code> function, "
+"this option will not going to work"
+msgstr ""
+
+#: includes/class.RoxWCMS.php:204
+msgid "Invalid CSRF"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:144
+msgid "Loading Icon Color"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:180
+msgid "Max Results"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:196
+#: includes/class.RoxWCMSSettings.php:208
+#: includes/class.RoxWCMSSettings.php:220
+msgid "No"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:132
+msgid "No Product Icon Color"
+msgstr ""
+
+#: templates/no-product.php:15
+msgid "No products found."
+msgstr ""
+
+#: includes/helper.php:567 includes/helper.php:568
+msgid "On"
+msgstr ""
+
+#: includes/class.RoxWCMSIcons.php:62
+msgid "Please define an SVG icon filename."
+msgstr ""
+
+#: includes/class.RoxWCMSIcons.php:58
+msgid "Please define default parameters in the form of an array."
+msgstr ""
+
+#. Author of the plugin
+msgid "PluginRox"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:189
+msgid "Replace Theme Search Form"
+msgstr ""
+
+#: templates/search-form.php:24
+msgid "Reset"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:120
+msgid "Reset Icon Color"
+msgstr ""
+
+#: templates/search-form.php:20
+msgid "Search"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:168
+msgid "Search Form Shortcode"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:108
+msgid "Search Icon Color"
+msgstr ""
+
+#: templates/search-form.php:15 templates/search-form.php:16
+msgid "Search Products"
+msgstr ""
+
+#: templates/see-all-results.php:15
+msgid "See all results."
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:201
+msgid "Show Add To Cart"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:213
+msgid "Show Product Rating"
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:170
+msgid ""
+"Use this shortcode to display the search box anywhere you want.<br>Other "
+"Uses:<br><code>&lt;?php echo do_shortcode('[rox_woo_search]'); ?&gt;</code> "
+"Or <code>&lt;?php echo RoxWCMS()->get_search_form(); ?&gt;</code>"
+msgstr ""
+
+#: includes/class.RoxWCMS.php:150
+msgid ""
+"We encountered an error while processing your request. Please try again "
+"after sometime."
+msgstr ""
+
+#. Name of the plugin
+msgid "WooCommerce Mega Search"
+msgstr ""
+
+#. Description of the plugin
+msgid "WooCommerce Mega Search By PluginRox"
+msgstr ""
+
+#: woo-mega-search.php:56 includes/class.RoxWCMS.php:117
+msgid ""
+"WooCommerce Mega Search needs WooCommerce. Please, install and active "
+"WooCommerce."
+msgstr ""
+
+#: includes/class.RoxWCMSSettings.php:195
+#: includes/class.RoxWCMSSettings.php:207
+#: includes/class.RoxWCMSSettings.php:219
+msgid "Yes"
+msgstr ""

@@ -1,0 +1,47 @@
+/**
+ * @version 1.0.1
+ */
+.rox-wcms-item {
+	.rox-actions {
+		position: relative;
+		float: right;
+		display: inline-block;
+		margin: 23px auto;
+		.rox-wcms-item-rating {
+			display: inline-block;
+			float: none;
+		}
+		.added_to_cart {
+			margin-left: 5px;
+		}
+		.added_to_cart,
+		.rox-wcms-btn {
+			display: none;
+		}
+		.rox-wcms-cart {
+			.rox-icon {
+				width: 14px;
+				height: 20px;
+				display: inline-block;
+				margin: 0 5px 0 auto;
+				padding: 0;
+			}
+		}
+	}
+	&:hover {
+		.rox-actions {
+			.rox-wcms-item-rating {
+				display: none;
+			}
+			&.visible-rating {
+				.rox-wcms-item-rating {
+					display: inline-block;
+				}
+			}
+			.added_to_cart,
+			.rox-wcms-btn {
+				display: inline-block;
+			}
+		}
+	}
+}

@@ -1,0 +1,26 @@
+/**
+ * Rox WooCommerce Mega Search
+ * @version 1.0.0
+ */
+
+.sr-only {
+	position: absolute;
+	width: 1px;
+	height: 1px;
+	padding: 0;
+	margin: -1px;
+	overflow: hidden;
+	clip: rect(0, 0, 0, 0);
+	border: 0;
+}
+.rox-search-container {
+	* { box-sizing: border-box; }
+	position: relative;
+	margin: 15px auto;
+	a { text-decoration: none; }
+}
+@import 'pertials/icons';
+@import 'pertials/search-bar';
+@import 'pertials/search-result';
+@import 'pertials/product-actions';
+@import 'pertials/search-widget';
